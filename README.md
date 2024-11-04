@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your_github_username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=zainulabdeen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <h2 align="center">👨🏻‍💻 About Me</h2>
@@ -77,14 +77,14 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical" alt="Zain's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zainulabdeen&show_icons=true&theme=radical" alt="Zain's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&theme=radical" alt="Zain's GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainulabdeen&theme=radical" alt="Zain's GitHub Streak Stats"/>
 </p>
 
 <h2 align="center">🗣️ Top Languages Used</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainulabdeen&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
