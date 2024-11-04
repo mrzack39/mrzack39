@@ -1,139 +1,62 @@
 <h1 align="center">
-  <span class="wave">👋</span> 
-  Hi, I'm <span class="name">Zain ul Abdeen</span>
+  <span style="display:inline-block; white-space: nowrap; animation: slide 8s linear infinite;">Hi 👋, I'm <span style="color:#007acc;">Zain ul Abdeen</span></span>
 </h1>
 
-<h3 align="center">A passionate developer from Pakistan</h3>
-<style>
-  .name {
-    display: inline-block;
-    overflow: hidden;
-    white-space: nowrap;
-    animation: slide 8s linear infinite;
-  }
+<p align="center">A passionate developer from Pakistan</p>
 
-  @keyframes slide {
-    0% { transform: translateX(0); }
-    50% { transform: translateX(-100%); }
-    100% { transform: translateX(0); }
-  }
-
-  .wave {
-    display: inline-block;
-    animation: wave-animation 2.5s infinite;
-  }
-
-  @keyframes wave-animation {
-    0% { transform: rotate(0.0deg); }
-    10% { transform: rotate(14.0deg); }
-    20% { transform: rotate(-8.0deg); }
-    30% { transform: rotate(14.0deg); }
-    40% { transform: rotate(-4.0deg); }
-    50% { transform: rotate(10.0deg); }
-    60% { transform: rotate(0.0deg); }
-  }
-</style>
-<!-- Profile Views -->
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mrzack39&label=Profile%20views&color=0e75b6&style=flat" alt="mrzack39" />
+  <img src="https://komarev.com/ghpvc/?username=mrzack39&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
-<!-- GitHub Trophies -->
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrzack39&margin-w=10" alt="mrzack39" />
-  </a>
-</p>
+### 💼 **Connect with me:**
 
-- 🔭 I’m currently working on **Barter Exchange**
-
-- 🌱 I’m currently learning **NEXT.JS, VUE.JS, LARAVEL Pro Level**
-
-- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/zain-ul-abdeen-a8a023244/)
-
-- 📝 I regularly write articles on [PetBeams](https://petbeams.com/)
-
-- 💬 Ask me about **Bootstrap, VUE, JS, PHP, C++ and Laravel**
-
-- 📫 How to reach me: **zjanjua6335@gmail.com**
-
-- ⚡ Fun fact: **Thanks for reaching me...**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/mr_zack65113" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/zain-ul-abdeen-a8a023244/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/zain-ul-abdeen-a8a023244/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100016906629174" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://instagram.com/mr_zack39" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/zain39" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="center">
-  <!-- Programming Languages -->
-  <h4>Programming Languages</h4>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </p>
+### 🚀 **Skills:**
 
-  <!-- Frontend Development -->
-  <h4>Frontend Development</h4>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify" width="40" height="40"/>
-  </p>
+- **Programming Languages:**
+  <br> ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) 
+  ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
+  ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
 
-  <!-- Mobile App Development -->
-  <h4>Mobile App Development</h4>
-  <p>
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </p>
+- **Frontend Development:**
+  <br> ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+  ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+  ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+  ![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg)
+  ![Vuetify](https://bestofjs.org/logos/vuetify.svg)
 
-  <!-- Database -->
-  <h4>Database</h4>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </p>
+- **Mobile App Development:**
+  <br> ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)
 
-  <!-- Data Visualization -->
-  <h4>Data Visualization</h4>
-  <p>
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/>
-  </p>
+- **Database:**
+  <br> ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+  ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)
 
-  <!-- Backend as a Service(BaaS) -->
-  <h4>Backend as a Service (BaaS)</h4>
-  <p>
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </p>
+- **Data Visualization:**
+  <br> ![Chart.js](https://www.chartjs.org/media/logo-title.svg)
 
-  <!-- Framework -->
-  <h4>Framework</h4>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-  </p>
+- **Backend as a Service (BaaS):**
+  <br> ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)
 
-  <!-- Software -->
-  <h4>Software</h4>
-  <p>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </p>
-</div>
+- **Framework:**
+  <br> ![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg)
 
+- **Software:**
+  <br> ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
 
+### ⚡ Fun Fact: 
+Thanks for reaching out! 😊
