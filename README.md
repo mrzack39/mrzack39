@@ -4,7 +4,35 @@
 </h1>
 
 <h3 align="center">A passionate developer from Pakistan</h3>
+<style>
+  .name {
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: slide 8s linear infinite;
+  }
 
+  @keyframes slide {
+    0% { transform: translateX(0); }
+    50% { transform: translateX(-100%); }
+    100% { transform: translateX(0); }
+  }
+
+  .wave {
+    display: inline-block;
+    animation: wave-animation 2.5s infinite;
+  }
+
+  @keyframes wave-animation {
+    0% { transform: rotate(0.0deg); }
+    10% { transform: rotate(14.0deg); }
+    20% { transform: rotate(-8.0deg); }
+    30% { transform: rotate(14.0deg); }
+    40% { transform: rotate(-4.0deg); }
+    50% { transform: rotate(10.0deg); }
+    60% { transform: rotate(0.0deg); }
+  }
+</style>
 <!-- Profile Views -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mrzack39&label=Profile%20views&color=0e75b6&style=flat" alt="mrzack39" />
@@ -39,7 +67,7 @@
   <a href="https://linkedin.com/in/zain-ul-abdeen-a8a023244/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="[https://fb.com/zain-ul-abdeen](https://www.facebook.com/profile.php?id=100016906629174)" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100016906629174" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://instagram.com/mr_zack39" target="blank">
@@ -108,32 +136,4 @@
   </p>
 </div>
 
-<style>
-  .name {
-    display: inline-block;
-    overflow: hidden;
-    white-space: nowrap;
-    animation: slide 8s linear infinite;
-  }
 
-  @keyframes slide {
-    0% { transform: translateX(0); }
-    50% { transform: translateX(-100%); }
-    100% { transform: translateX(0); }
-  }
-
-  .wave {
-    display: inline-block;
-    animation: wave-animation 2.5s infinite;
-  }
-
-  @keyframes wave-animation {
-    0% { transform: rotate(0.0deg); }
-    10% { transform: rotate(14.0deg); }
-    20% { transform: rotate(-8.0deg); }
-    30% { transform: rotate(14.0deg); }
-    40% { transform: rotate(-4.0deg); }
-    50% { transform: rotate(10.0deg); }
-    60% { transform: rotate(0.0deg); }
-  }
-</style>
