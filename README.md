@@ -1,90 +1,41 @@
 <h1 align="center">Hello World, I'm Zain ul Abdeen 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/your_profile_image.png" alt="Zain's Profile Picture" width="150" height="150" style="border-radius: 50%;">
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zainulabdeen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
-<h2 align="center">👨🏻‍💻 About Me</h2>
-<p align="center" style="max-width: 800px;">
-  💡 Hello everyone! I'm a graduate with a focus on Computer Science and extensive experience in web development. I enjoy collaborating with people on projects of similar interests.
-</p>
-<p align="center" style="max-width: 800px;">
-  🌱 I'm currently working on **Barter Exchange** and continuously expanding my skills in **NEXT.JS, VUE.JS, and LARAVEL**.
-</p>
-<p align="center" style="max-width: 800px;">
-  ✍️ In addition to my technical pursuits, I enjoy dancing, watching movies, reading novels, and playing chess and badminton.
-</p>
-<p align="center" style="max-width: 800px;">
-  💬 Feel free to reach out to me for discussions or general consulting. You can email me at <a href="mailto:zjanjua6335@gmail.com">zjanjua6335@gmail.com</a>, and I'll do my best to respond promptly!
-</p>
 
-<p align="center" style="font-weight: bold;">
-  If my repositories are helpful to you, please consider nominating me for GitHub Stars! 🌟
-</p>
-
-<h2 align="center">📫 Connect with Me:</h2>
-<p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100016906629174" target="_blank">Facebook</a> | 
-  <a href="https://www.linkedin.com/in/zain-ul-abdeen-a8a023244/" target="_blank">LinkedIn</a>
-</p>
-
----
-
-<h2 align="center">💼 Professional Experience</h2>
+# 💫 About Me:
+ Hello everyone! I'm a graduate with a focus on Computer Science and extensive experience in web development. I enjoy collaborating with people on projects of similar interests.<br><br>🌱 I'm currently working on **Barter Exchange** and continuously expanding my skills in **NEXT.JS, VUE.JS, and LARAVEL**.<br><br>✍️ In addition to my technical pursuits, I enjoy dancing, watching movies, reading novels, and playing chess and badminton.<br><br>💬 Feel free to reach out to me for discussions or general consulting. You can email me at zjanjua6335@gmail.com, and I'll do my best to respond promptly!<br><br>If my repositories are helpful to you, please consider nominating me for GitHub Stars! 🌟
+ 
+# 💼 Professional Experience:
 <ul>
   <li>**NUMCS NUML Faisalabad Computing Society**: President & Chairperson</li>
-  <li>**NUML-FSD ACM Student Chapter**: Front-End Developer</li>
-  <li>**NAARANN**: WordPress Developer (1 year)</li>
-  <li>**InfoTechExpertX**: Developer (3 years) - <a href="https://infotechexpertx.us/">Website</a></li>
+  <li>**NUML-FSD ACM Student Chapter**: </li>
+  <li>**NAARANN**: Front-End Developer (3 year)</li>
+  <li>**InfoTechExpertX**:WordPress Developer (1 years) - <a href="https://infotechexpertx.us/">Website</a></li>
 </ul>
 
 ---
 
-<h2 align="center">🚀 Skills and Tools</h2>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zain39) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100016906629174) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zain-ul-abdeen-a8a023244/) 
 
-#### 💻 Programming Languages
-<span style="background-color:#f1e05a; padding: 5px; margin: 5px;">JavaScript</span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-<span style="background-color:#e34c26; padding: 5px; margin: 5px;">HTML5</span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-<span style="background-color:#563d7c; padding: 5px; margin: 5px;">CSS3</span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  
-#### 🎨 Frontend Development
-<span style="background-color:#563d7c; padding: 5px; margin: 5px;">Bootstrap</span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
-<span style="background-color:#4FC08D; padding: 5px; margin: 5px;">Vue.js</span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="50" height="50"/>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mrzack39&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrzack39&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrzack39&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#### 📱 Mobile App Development
-<span style="background-color:#02569B; padding: 5px; margin: 5px;">Flutter</span> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mrzack39&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-#### 🗄️ Database
-<span style="background-color:#4479A1; padding: 5px; margin: 5px;">MySQL</span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-#### 📊 Data Visualization
-<span style="background-color:#FF6384; padding: 5px; margin: 5px;">Chart.js</span> <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="50" height="50"/>
-
-#### 🔥 Backend as a Service (BaaS)
-<span style="background-color:#FFCA28; padding: 5px; margin: 5px;">Firebase</span> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-
-#### 🚀 Frameworks
-<span style="background-color:#FF2D20; padding: 5px; margin: 5px;">Laravel</span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="50" height="50"/>
-
-#### 🔧 Software
-<span style="background-color:#FF6C37; padding: 5px; margin: 5px;">Postman</span> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mrzack39&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mrzack39&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zainulabdeen&show_icons=true&theme=radical" alt="Zain's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainulabdeen&theme=radical" alt="Zain's GitHub Streak Stats"/>
-</p>
-
-<h2 align="center">🗣️ Top Languages Used</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainulabdeen&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
