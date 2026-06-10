@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
- Hello everyone! I'm a graduate with a focus on Computer Science and extensive experience in web development. I enjoy collaborating with people on projects of similar interests.<br><br>🌱 I'm currently working at **Sunz Tech** and continuously expanding my skills in **NEXT.JS, VUE.JS, and LARAVEL**.<br><br>✍️ In addition to my technical pursuits, I enjoy cooking, watching tech videos, reading novels, and playing cricket and table tennis.<br><br>💬 Feel free to reach out to me for discussions or general consulting. You can email me at zjanjua6335@gmail.com, and I'll do my best to respond promptly!<br><br>If my repositories are helpful to you, please consider nominating me for GitHub Stars! 🌟
+ Hello everyone! I'm a graduate with a focus on Computer Science and extensive experience in web development. I enjoy collaborating with people on projects of similar interests.<br><br>🌱 I'm  development teamlead at **nested digital**.<br><br>✍️ In addition to my technical pursuits, I enjoy cooking, watching tech videos, reading novels, and playing cricket and table tennis.<br><br>💬 Feel free to reach out to me for discussions or general consulting. You can email me at zjanjua6335@gmail.com, and I'll do my best to respond promptly!<br><br>If my repositories are helpful to you, please consider nominating me for GitHub Stars! 🌟
  
 # 💼 Professional Experience:
 <ul>
