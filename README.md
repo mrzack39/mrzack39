@@ -1,41 +1,102 @@
-<h1 align="center">Hello World, I'm Zain ul Abdeen 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00EAFF&center=true&vCenter=true&width=600&height=600&lines=Hello+World,+I'm+Zain+ul+Abdeen+👋;Full-Stack+Web+Developer+💻;Team+Lead+@+Nested+Digital+🚀" alt="Typing SVG" />
+</h1>
 
-
-
-
-# 💫 About Me:
- Hello everyone! I'm a graduate with a focus on Computer Science and extensive experience in web development. I enjoy collaborating with people on projects of similar interests.<br><br>🌱 I'm  development teamlead at **nested digital**.<br><br>✍️ In addition to my technical pursuits, I enjoy cooking, watching tech videos, reading novels, and playing cricket and table tennis.<br><br>💬 Feel free to reach out to me for discussions or general consulting. You can email me at zjanjua6335@gmail.com, and I'll do my best to respond promptly!<br><br>If my repositories are helpful to you, please consider nominating me for GitHub Stars! 🌟
- 
-# 💼 Professional Experience:
-<ul>
-  <li>**NUMCS NUML Faisalabad Computing Society**: President & Chairperson</li>
-  <li>**NUML-FSD ACM Student Chapter**: </li>
-  <li>**NAARANN**: Front-End Developer (3 year)</li>
-  <li>**InfoTechExpertX**:WordPress Developer (1 years) - <a href="https://infotechexpertx.us/">Website</a></li>
-</ul>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrzack39&style=for-the-badge&color=00eaff&label=PROFILE+VIEWS" alt="mrzack39" />
+  <a href="https://github.com/mrzack39?tab=followers"><img src="https://img.shields.io/github/followers/mrzack39?color=a068ff&style=for-the-badge&logo=github&logoColor=white" alt="Followers"></a>
+  <a href="https://www.linkedin.com/in/zain-ul-abdeen-a8a023244/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
 
 ---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zain39) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100016906629174) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-ul-abdeen-a8a023244/) 
+### ⚡ Quick About Me
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mrzack39&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrzack39&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrzack39&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mrzack39&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mrzack39&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <ul>
+        💼 <b>Current Role:</b> Full-Stack Web Developer & Team Lead at <b>Nested Digital</b>.<br><br>
+        🎯 <b>Core Expertise:</b> Engineering high-performance applications, custom architecture, database solutions (PostgreSQL, MySQL, Oracle), and secure REST API integrations.<br><br>
+        🌱 <b>Exploring:</b> Advanced microservices, real-time socket communications, and cloud optimizations.<br><br>
+        ⚡ <b>Fun Fact:</b> When I'm not writing code or managing systems, you'll catch me playing cricket or exploring sports analytics.
+      </ul>
+    </td>
+    <td width="45%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=mrzack39&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Zain's GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mrzack39&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Stack & Ecosystem
+
+<div align="center">
+
+  <!-- Backend & Languages -->
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+  <!-- Databases & Tools -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+</div>
+
+---
+
+### 📊 GitHub Analytics & Metrics
+
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrzack39&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrzack39&theme=tokyonight&hide_border=true&layout=compact&langs_count=7" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrzack39&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/zain-ul-abdeen-a8a023244/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mrzack39" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:mrzakki4@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/zain39" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
