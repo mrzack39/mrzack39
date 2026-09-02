@@ -104,12 +104,12 @@ I care about writing code that's clean, maintainable, and solves the actual prob
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mrzack39&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://gh-stats.deoxy.dev/api?username=mrzack39&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 <img height="165" src="https://streak-stats.demolab.com/?user=mrzack39&theme=tokyonight&hide_border=true&background=0D1117" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrzack39&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+<img width="70%" src="https://gh-stats.deoxy.dev/api/top-langs/?username=mrzack39&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrzack39&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/mrzack39/mrzack39/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
@@ -118,7 +118,7 @@ I care about writing code that's clean, maintainable, and solves the actual prob
 ## Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy-winning.vercel.app/?username=mrzack39&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=mrzack39&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
 </div>
 
 <br>
