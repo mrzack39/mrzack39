@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-x-nu.vercel.app/api/capsule?type=wave&color=2DD4BF,7C3AED,F59E0B&text=Zain%20Ul%20Abdeen&fontSize=52&fontColor=ffffff&width=1200&height=250&textAnim=bounce&enableGlow=true&gradientAnim=true&density=1.4" width="100%"/>
+<img src="https://capsule-x-nu.vercel.app/api/capsule?type=wave&color=2DD4BF,7C3AED,F59E0B&width=1200&height=200&enableGlow=true&gradientAnim=true&density=1.4" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=650&lines=Team+Lead+%40+Nested+Digital;PHP+%2F+Laravel+%7C+Vue.js+%7C+WordPress;Turning+ideas+into+scalable+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=2DD4BF&background=0D1117&center=true&vCenter=true&width=700&height=60&lines=Zain+Ul+Abdeen" alt="Name" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=F59E0B&background=0D1117&center=true&vCenter=true&width=700&height=40&lines=Full-Stack+Developer+%26+Technical+Strategist;Team+Lead+%40+Nested+Digital;PHP+%2F+Laravel+%7C+Vue.js+%7C+WordPress" alt="Typing SVG" />
 
 <br>
 
 ![](https://img.shields.io/badge/-FULL--STACK%20DEVELOPER-111111?style=for-the-badge&labelColor=111111&color=2DD4BF)
-![](https://img.shields.io/badge/-TECHNICAL%20STRATEGIST-111111?style=for-the-badge&labelColor=111111&color=F59E0B)
-![](https://img.shields.io/badge/-OPEN%20TO%20WORK-111111?style=for-the-badge&labelColor=111111&color=22C55E)
+![](https://img.shields.io/badge/-TECHNICAL%20STRATEGIST-111111?style=for-the-badge&labelColor=111111&color=7C3AED)
+![](https://img.shields.io/badge/-OPEN%20TO%20WORK-111111?style=for-the-badge&labelColor=111111&color=F59E0B)
 
 <br>
 
@@ -65,6 +67,13 @@ I care about writing code that's clean, maintainable, and solves the actual prob
 ![CSS3](https://img.shields.io/badge/CSS3-2DD4BF?style=for-the-badge&logo=css3&logoColor=0D1117)
 ![Dart](https://img.shields.io/badge/Dart-2DD4BF?style=for-the-badge&logo=dart&logoColor=0D1117)
 
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-7C3AED?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-7C3AED?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-7C3AED?style=for-the-badge&logo=firebase&logoColor=white)
+
 **Frameworks & Libraries**
 
 ![Laravel](https://img.shields.io/badge/Laravel-F59E0B?style=for-the-badge&logo=laravel&logoColor=0D1117)
@@ -77,29 +86,22 @@ I care about writing code that's clean, maintainable, and solves the actual prob
 ![Flutter](https://img.shields.io/badge/Flutter-F59E0B?style=for-the-badge&logo=flutter&logoColor=0D1117)
 ![WordPress](https://img.shields.io/badge/WordPress-F59E0B?style=for-the-badge&logo=wordpress&logoColor=0D1117)
 
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-2DD4BF?style=for-the-badge&logo=mysql&logoColor=0D1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2DD4BF?style=for-the-badge&logo=postgresql&logoColor=0D1117)
-![Oracle](https://img.shields.io/badge/Oracle-2DD4BF?style=for-the-badge&logo=oracle&logoColor=0D1117)
-![Firebase](https://img.shields.io/badge/Firebase-2DD4BF?style=for-the-badge&logo=firebase&logoColor=0D1117)
-
 **Tools & IDEs**
 
-![VS Code](https://img.shields.io/badge/VS%20Code-F59E0B?style=for-the-badge&logo=visualstudiocode&logoColor=0D1117)
-![Cursor](https://img.shields.io/badge/Cursor-F59E0B?style=for-the-badge&logo=cursor&logoColor=0D1117)
-![Claude](https://img.shields.io/badge/Claude-F59E0B?style=for-the-badge&logo=claude&logoColor=0D1117)
-![Antigravity](https://img.shields.io/badge/Antigravity-F59E0B?style=for-the-badge&logo=googlegemini&logoColor=0D1117)
-![Figma](https://img.shields.io/badge/Figma-F59E0B?style=for-the-badge&logo=figma&logoColor=0D1117)
-![Postman](https://img.shields.io/badge/Postman-F59E0B?style=for-the-badge&logo=postman&logoColor=0D1117)
+![VS Code](https://img.shields.io/badge/VS%20Code-2DD4BF?style=for-the-badge&logo=visualstudiocode&logoColor=0D1117)
+![Cursor](https://img.shields.io/badge/Cursor-2DD4BF?style=for-the-badge&logo=cursor&logoColor=0D1117)
+![Claude](https://img.shields.io/badge/Claude-2DD4BF?style=for-the-badge&logo=claude&logoColor=0D1117)
+![Antigravity](https://img.shields.io/badge/Antigravity-2DD4BF?style=for-the-badge&logo=googlegemini&logoColor=0D1117)
+![Figma](https://img.shields.io/badge/Figma-2DD4BF?style=for-the-badge&logo=figma&logoColor=0D1117)
+![Postman](https://img.shields.io/badge/Postman-2DD4BF?style=for-the-badge&logo=postman&logoColor=0D1117)
 
 **Deployment & Version Control**
 
-![Docker](https://img.shields.io/badge/Docker-2DD4BF?style=for-the-badge&logo=docker&logoColor=0D1117)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2DD4BF?style=for-the-badge&logo=githubactions&logoColor=0D1117)
-![Git](https://img.shields.io/badge/Git-2DD4BF?style=for-the-badge&logo=git&logoColor=0D1117)
-![Git Bash](https://img.shields.io/badge/Git%20Bash-2DD4BF?style=for-the-badge&logo=gnubash&logoColor=0D1117)
-![GitHub](https://img.shields.io/badge/GitHub-2DD4BF?style=for-the-badge&logo=github&logoColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-F59E0B?style=for-the-badge&logo=docker&logoColor=0D1117)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-F59E0B?style=for-the-badge&logo=githubactions&logoColor=0D1117)
+![Git](https://img.shields.io/badge/Git-F59E0B?style=for-the-badge&logo=git&logoColor=0D1117)
+![Git Bash](https://img.shields.io/badge/Git%20Bash-F59E0B?style=for-the-badge&logo=gnubash&logoColor=0D1117)
+![GitHub](https://img.shields.io/badge/GitHub-F59E0B?style=for-the-badge&logo=github&logoColor=0D1117)
 
 <br>
 
@@ -108,10 +110,10 @@ I care about writing code that's clean, maintainable, and solves the actual prob
 <div align="center">
 
 ![](https://img.shields.io/badge/76+-Total%20Contributions-0D1117?style=for-the-badge&labelColor=2DD4BF&color=0D1117)
-![](https://img.shields.io/badge/3%20days-Longest%20Streak-0D1117?style=for-the-badge&labelColor=F59E0B&color=0D1117)
-![](https://img.shields.io/badge/2+-Years%20Experience-0D1117?style=for-the-badge&labelColor=2DD4BF&color=0D1117)
-![](https://img.shields.io/badge/Team%20Lead-Nested%20Digital-0D1117?style=for-the-badge&labelColor=F59E0B&color=0D1117)
-![](https://img.shields.io/badge/President-NUMCS%20Society-0D1117?style=for-the-badge&labelColor=2DD4BF&color=0D1117)
+![](https://img.shields.io/badge/3%20days-Longest%20Streak-0D1117?style=for-the-badge&labelColor=7C3AED&color=0D1117)
+![](https://img.shields.io/badge/2+-Years%20Experience-0D1117?style=for-the-badge&labelColor=F59E0B&color=0D1117)
+![](https://img.shields.io/badge/Team%20Lead-Nested%20Digital-0D1117?style=for-the-badge&labelColor=2DD4BF&color=0D1117)
+![](https://img.shields.io/badge/President-NUMCS%20Society-0D1117?style=for-the-badge&labelColor=7C3AED&color=0D1117)
 
 </div>
 
