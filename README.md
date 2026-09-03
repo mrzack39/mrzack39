@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:134E4A,100:0D1117&height=230&section=header&text=Zain%20Ul%20Abdeen&fontSize=46&fontColor=2DD4BF&fontAlignY=32&animation=fadeIn&desc=Full-Stack%20Developer%20%26%20Technical%20Strategist&descAlignY=52&descSize=18&descColor=F59E0B" width="100%"/>
+<img src="https://capsule-x-nu.vercel.app/api/capsule?type=wave&color=2DD4BF,7C3AED,F59E0B&text=Zain%20Ul%20Abdeen&fontSize=52&fontColor=ffffff&width=1200&height=250&textAnim=bounce&enableGlow=true&gradientAnim=true&density=1.4" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=650&lines=Team+Lead+%40+Nested+Digital;PHP+%2F+Laravel+%7C+Vue.js+%7C+WordPress;Turning+ideas+into+scalable+systems" alt="Typing SVG" />
 
@@ -130,7 +130,7 @@ I care about writing code that's clean, maintainable, and solves the actual prob
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:134E4A,100:0D1117&height=150&section=footer" width="100%"/>
+<img src="https://capsule-x-nu.vercel.app/api/capsule?type=wave2&color=F59E0B,2DD4BF&text=&width=1200&height=140&enableGlow=true" width="100%"/>
 
 <div align="center">
 
