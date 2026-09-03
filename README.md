@@ -25,7 +25,7 @@
 
 ## About Me
 
-Computer Science graduate with **2 years of hands-on experience** as a Full-Stack Developer and Technical Strategist, currently working as a **Development Team Lead at Nested Digital**. I build web applications end-to-end — from database and API design to pixel-level UI decisions — while also shaping the technical direction of the projects I lead, mainly across the PHP/Laravel and Vue.js ecosystem.
+Computer Science graduate with **4 years of hands-on experience** as a Full-Stack Developer and Technical Strategist, currently working as a **Development Team Lead at Nested Digital**. I build web applications end-to-end — from database and API design to pixel-level UI decisions — while also shaping the technical direction of the projects I lead, mainly across the PHP/Laravel and Vue.js ecosystem.
 
 I care about writing code that's clean, maintainable, and solves the actual problem — not just code that runs.
 
@@ -48,7 +48,7 @@ I care about writing code that's clean, maintainable, and solves the actual prob
 
 | Role | Organization | Duration |
 |---|---|---|
-| Development Team Lead | Nested Digital | Current |
+| Development Team Lead | Nested Digital (Kamal Textile PVT LTD) | Current |
 | Front-End Developer | NAARANN | 3 years |
 | WordPress Developer | InfoTechExpertX | 1 year |
 | President & Chairperson | NUMCS — NUML Faisalabad Computing Society | — |
@@ -111,7 +111,7 @@ I care about writing code that's clean, maintainable, and solves the actual prob
 
 ![](https://img.shields.io/badge/76+-Total%20Contributions-0D1117?style=for-the-badge&labelColor=2DD4BF&color=0D1117)
 ![](https://img.shields.io/badge/3%20days-Longest%20Streak-0D1117?style=for-the-badge&labelColor=7C3AED&color=0D1117)
-![](https://img.shields.io/badge/2+-Years%20Experience-0D1117?style=for-the-badge&labelColor=F59E0B&color=0D1117)
+![](https://img.shields.io/badge/4+-Years%20Experience-0D1117?style=for-the-badge&labelColor=F59E0B&color=0D1117)
 ![](https://img.shields.io/badge/Team%20Lead-Nested%20Digital-0D1117?style=for-the-badge&labelColor=2DD4BF&color=0D1117)
 ![](https://img.shields.io/badge/President-NUMCS%20Society-0D1117?style=for-the-badge&labelColor=7C3AED&color=0D1117)
 
