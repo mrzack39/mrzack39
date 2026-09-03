@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-x-nu.vercel.app/api/capsule?type=wave&color=2DD4BF,7C3AED,F59E0B&width=1200&height=200&enableGlow=true&gradientAnim=true&density=1.4" width="100%"/>
+
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=2DD4BF&background=0D1117&center=true&vCenter=true&width=700&height=60&lines=Zain+Ul+Abdeen" alt="Name" />
 
